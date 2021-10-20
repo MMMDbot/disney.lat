@@ -119,9 +119,9 @@ function logged_in_msg($username)
 		    <a class="btn btn-info btn-sm" href="?logout=true" role="button">Cerrar Sesion</a>
 			<div class="form-group">
 				<label class="font-weight-bold">URL M3U8:</label>
-				<input type="text" name="link" class="form-control" placeholder="Ex: http://azxtv.com/hls/stream.m3u8"
+				<input type="text" name="link" class="form-control" placeholder="Ex: http://azxtv.com/hls/stream.m3u8"this.select()" required>
 
-"this.select()" required>
+
 			</div>
 
 			<div class="row">
